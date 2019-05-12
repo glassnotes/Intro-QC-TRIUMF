@@ -7,9 +7,10 @@ This list is non-exhaustive, and I'll be adding to it periodically as the lectur
 ## General quantum computing
 - [Introduction to Quantum Information and Computation (Nielsen and Chuang)](https://www.amazon.ca/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?crid=UDDSOP619RB&keywords=quantum+computation+and+quantum+information&qid=1557595705&s=gateway&sprefix=quantum+computation+%2Caps%2C311&sr=8-1); basically the quantum computing 'bible'
 - [Quantum computing for the very curious](https://quantum.country/qcvc) (by Nielsen from Nielsen and Chuang)
-- [Some lecture notes on projective measurements and teleportation](https://www.people.vcu.edu/~sgharibian/courses/CMSC491/notes/Lecture%203%20-%20Measurement.pdf)
 - [Learning Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) (early access link to a new textbook, being written by some of my collaborators)
-
+- [Quantum Computing: A Gentle Introduction](https://www.amazon.ca/Quantum-Computing-Introduction-Eleanor-Rieffel/dp/0262526670); haven't looked through it myself, but have heard good things from friends
+- [Adiabatic Quantum Computing](http://arxiv.org/abs/1611.04471)
+- [Some lecture notes on projective measurements and teleportation](https://www.people.vcu.edu/~sgharibian/courses/CMSC491/notes/Lecture%203%20-%20Measurement.pdf)
 
 ## Hardware
 - [Quantum computing report](https://quantumcomputingreport.com/), a webpage that keeps track of major companies and startups and their hardware progress
@@ -22,6 +23,7 @@ This list is non-exhaustive, and I'll be adding to it periodically as the lectur
 
 
 ## Algorithms and applications
+- [A NASA Perspective on Quantum Computing](https://arxiv.org/abs/1704.04836), mostly about quantum annealing but gives some nice applications and a technical discussion of hardware
 - [A list of problems that are QMA-complete](https://arxiv.org/abs/1212.6312), i.e. hard even for quantum computers
 - [Ground-state energy estimation of the water molecule on a trapped ion quantum computer](https://arxiv.org/abs/1902.10171)
 - [Quantum Computational Chemistry](http://arxiv.org/abs/1808.10402), a very clear and methodical overview of the field
